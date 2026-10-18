@@ -1,4 +1,4 @@
 # Generation Info
 
-- **Source:** upstream Iris (github.com/SirMallard/Iris) — `docs/` folder (getting_started, widgets, states, events, config, lifecycle, common_issues), README, and source snapshot `lib/API.lua`, `lib/init.lua`, `lib/config.lua`, `lib/Internal.lua` (Iris 2.5.1)
-- **Generated:** 2026-08-01
+- **Source:** upstream Iris (github.com/SirMallard/Iris) — `docs/` folder (getting_started, widgets, states, events, config, lifecycle, common_issues), README, and source snapshot `lib/init.luau`, `lib/Widgets/*.luau`, `lib/Config.luau`, `lib/Internal.luau`, `lib/Types.luau` (Iris 3.0.0)
+- **Generated:** 2026-10-18
